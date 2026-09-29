@@ -32,6 +32,8 @@ Proyek ini berisi simulasi jaringan VLAN dan Inter‑VLAN Routing menggunakan Ci
 [PC4]---+         +---------------+
 [PC5]---+
 
+<img width="661" height="403" alt="image" src="https://github.com/user-attachments/assets/8a98b391-d3a2-4894-a5ba-41fe435fb371" />
+
 ## Konfigurasi Router (CLI)
 Router> enable
 Router# configure terminal
