@@ -115,5 +115,8 @@ Pengujian dilakukan untuk memastikan komunikasi antar‑VLAN berjalan dengan bai
 ---
 README ini disusun untuk dokumentasi praktikum Jaringan Komputer – Simulasi VLAN dan Inter‑VLAN Routing.
 Catatan: Konfigurasi dapat berbeda tergantung versi Packet Tracer yang digunakan.
+## File
+[Download JARKOM SIMULASI P2 VLAN.pkt](./JARKOM%20SIMULASI%20P2%20VLAN.pkt)
+
 
 
